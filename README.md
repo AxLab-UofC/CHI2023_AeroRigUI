@@ -1,2 +1,2 @@
-# CHI2023_AeroRigUI
+# AeroRigUI
 Code for AeroRigUI
